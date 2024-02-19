@@ -11,13 +11,14 @@ I'm Marios, a 19-year-old university student currently pursuing a degree in Comp
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on quite anything that has programming/coding.
 - 💬 Ask me about anything.
-- 📫 How to reach me: .
+- 📫 How to reach me: 
+      Discord: zizujr
 
 ### 🚀 My Projects
 
 
-- **[Project Name]** - [Short Description] ([Link to Repository])
-- **[Another Project Name]** - [Short Description] ([Link to Repository])
+- **zxmechanic** - esx mechanic menu ui fivem ((https://github.com/zizujr/zxmechanic))
+
 
 ### 📈 GitHub Stats
 
